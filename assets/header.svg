@@ -19,10 +19,9 @@
       <rect x="0" y="0" width="900" height="260" rx="16"/>
     </clipPath>
 
-    <clipPath id="p1clipPath"><rect id="p1clipRect" x="72" y="170" width="0" height="26"><animate id="p1type" attributeName="width" from="0" to="408" dur="1.2s" begin="0s;p4fade.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="p1clipPath"><rect id="p1clipRect" x="72" y="170" width="0" height="26"><animate id="p1type" attributeName="width" from="0" to="408" dur="1.2s" begin="0s;p3fade.end" fill="freeze"/></rect></clipPath>
     <clipPath id="p2clipPath"><rect id="p2clipRect" x="72" y="170" width="0" height="26"><animate id="p2type" attributeName="width" from="0" to="330" dur="1.2s" begin="p1fade.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="p3clipPath"><rect id="p3clipRect" x="72" y="170" width="0" height="26"><animate id="p3type" attributeName="width" from="0" to="348" dur="1.2s" begin="p2fade.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="p4clipPath"><rect id="p4clipRect" x="72" y="170" width="0" height="26"><animate id="p4type" attributeName="width" from="0" to="480" dur="1.2s" begin="p3fade.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="p3clipPath"><rect id="p3clipRect" x="72" y="170" width="0" height="26"><animate id="p3type" attributeName="width" from="0" to="390" dur="1.2s" begin="p2fade.end" fill="freeze"/></rect></clipPath>
   </defs>
 
   <g clip-path="url(#cardClip)">
@@ -46,10 +45,10 @@
   <text x="48" y="192" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" fill="#7dd3fc">&gt;</text>
 
   <g id="p1group" opacity="0">
-    <animate id="p1fade" attributeName="opacity" values="1;1;0" keyTimes="0;0.8;1" dur="4s" begin="0s;p4fade.end" fill="freeze"/>
+    <animate id="p1fade" attributeName="opacity" values="1;1;0" keyTimes="0;0.8;1" dur="4s" begin="0s;p3fade.end" fill="freeze"/>
     <text x="72" y="192" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" fill="#e2e8f0" clip-path="url(#p1clipPath)">Full-Stack Developer &amp; Team Lead</text>
     <rect y="176" width="3" height="22" fill="#7dd3fc">
-      <animate attributeName="x" from="72" to="480" dur="1.2s" begin="0s;p4fade.end" fill="freeze"/>
+      <animate attributeName="x" from="72" to="480" dur="1.2s" begin="0s;p3fade.end" fill="freeze"/>
       <animate attributeName="fill-opacity" values="1;0;1" dur="0.9s" begin="p1type.end" repeatCount="indefinite"/>
     </rect>
   </g>
@@ -67,7 +66,7 @@
     <animate id="p3fade" attributeName="opacity" values="1;1;0" keyTimes="0;0.8;1" dur="4s" begin="p2fade.end" fill="freeze"/>
     <text x="72" y="192" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" fill="#e2e8f0" clip-path="url(#p3clipPath)">Python · Typescript · C# · Rust </text>
     <rect y="176" width="3" height="22" fill="#7dd3fc">
-      <animate attributeName="x" from="72" to="420" dur="1.2s" begin="p2fade.end" fill="freeze"/>
+      <animate attributeName="x" from="72" to="462" dur="1.2s" begin="p2fade.end" fill="freeze"/>
       <animate attributeName="fill-opacity" values="1;0;1" dur="0.9s" begin="p3type.end" repeatCount="indefinite"/>
     </rect>
   </g>
