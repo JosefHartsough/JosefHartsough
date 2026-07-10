@@ -71,13 +71,4 @@
       <animate attributeName="fill-opacity" values="1;0;1" dur="0.9s" begin="p3type.end" repeatCount="indefinite"/>
     </rect>
   </g>
-
-  <g id="p4group" opacity="0">
-    <animate id="p4fade" attributeName="opacity" values="1;1;0" keyTimes="0;0.8;1" dur="4s" begin="p3fade.end" fill="freeze"/>
-    <text x="72" y="192" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" fill="#e2e8f0" clip-path="url(#p4clipPath)">Building things that run the shop floor</text>
-    <rect y="176" width="3" height="22" fill="#7dd3fc">
-      <animate attributeName="x" from="72" to="552" dur="1.2s" begin="p3fade.end" fill="freeze"/>
-      <animate attributeName="fill-opacity" values="1;0;1" dur="0.9s" begin="p4type.end" repeatCount="indefinite"/>
-    </rect>
-  </g>
 </svg>
