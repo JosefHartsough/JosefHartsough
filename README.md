@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Languages & Frameworks
+### Languages & Frameworks
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 </div>
@@ -59,4 +59,3 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
