@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Josef%20Hartsough&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%26%20IT%20Manager&descAlignY=55&descSize=20" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Software+Engineering+%26+IT+Manager;Full+Stack+Developer;AWS+%7C+C%23+%7C+Rust+%7C+TypeScript;Building+things+that+run+the+shop+floor" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/JosefHartsough/JosefHartsough/main/assets/header.svg" width="100%"/>
 
 </div>
 
@@ -59,3 +55,4 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
