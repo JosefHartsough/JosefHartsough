@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/JosefHartsough/JosefHartsough/main/assets/header.svg" width="100%"/>
-
-</div>
-
----
-
 ### Languages & Frameworks
 
 <p align="center">
